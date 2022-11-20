@@ -1,4 +1,4 @@
-# A convenient program for searching the iTunes Store
+# A Convenient Program for Searching the iTunes Store
 
 Highlights: Interactive command line tool, Class Inheritance, iTunes Store API
 
